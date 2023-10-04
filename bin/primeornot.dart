@@ -19,4 +19,5 @@ void main() {
   } else {
     print('$number is not a prime number.');
   }
+  print("hello");
 }
